@@ -85,6 +85,6 @@ else:
 """
 adwentures_of_tom_sawer_sentences.pop()
 
-word_num = len(adwentures_of_tom_sawer_sentences[-1].split(" "))
+word_num = len(adwentures_of_tom_sawer_sentences[-1].split(""))
 
 print(word_num)
