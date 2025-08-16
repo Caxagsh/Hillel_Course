@@ -44,6 +44,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.homework_04.executor": "Run",
+    "Python.homework_05.1.executor": "Run",
     "Python.homework_05.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -73,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754839546038</updated>
       <workItem from="1754839547139" duration="5539000" />
-      <workItem from="1755259484738" duration="6660000" />
+      <workItem from="1755259484738" duration="10742000" />
     </task>
     <servers />
   </component>
@@ -93,6 +94,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_04.coverage" NAME="homework_04 Coverage Results" MODIFIED="1754927732360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_04" />
-    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_05.coverage" NAME="homework_05 Coverage Results" MODIFIED="1755357820498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_05" />
+    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_05.coverage" NAME="homework_05 Coverage Results" MODIFIED="1755360926704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_05" />
+    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_05_1.coverage" NAME="homework_05.1 Coverage Results" MODIFIED="1755366966419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_05" />
   </component>
 </project>

@@ -55,3 +55,10 @@ for name, specs in car_data.items():
     searching_cars.update({name: specs})
 sorted_cars = sorted(searching_cars.items(), key=lambda x: x[1][-1])
 print(sorted_cars)
+
+
+l = [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+sum = 0
+for var in l:
+  sum+=var
+print(sum)   
