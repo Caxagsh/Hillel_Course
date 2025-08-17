@@ -46,9 +46,12 @@
     "Python.homework_04.executor": "Run",
     "Python.homework_05.1.executor": "Run",
     "Python.homework_05.executor": "Run",
+    "Python.homework_06.1.executor": "Run",
+    "Python.homework_06.2.executor": "Run",
+    "Python.homework_06.3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/alexanderdubrovin/PycharmProjects/Hillel_course_HW",
+    "last_opened_file_path": "/Users/alexanderdubrovin/PycharmProjects/Hillel_course_HW/lesson_06",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +61,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson_06" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1754839546038</updated>
       <workItem from="1754839547139" duration="5539000" />
-      <workItem from="1755259484738" duration="10742000" />
+      <workItem from="1755259484738" duration="13871000" />
     </task>
     <servers />
   </component>
@@ -93,8 +101,11 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_06_3.coverage" NAME="homework_06.3 Coverage Results" MODIFIED="1755451613690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_06" />
     <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_04.coverage" NAME="homework_04 Coverage Results" MODIFIED="1754927732360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_04" />
+    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_06_1.coverage" NAME="homework_06.1 Coverage Results" MODIFIED="1755450110467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_06" />
     <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_05.coverage" NAME="homework_05 Coverage Results" MODIFIED="1755360926704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_05" />
-    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_05_1.coverage" NAME="homework_05.1 Coverage Results" MODIFIED="1755366966419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_05" />
+    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_05_1.coverage" NAME="homework_05.1 Coverage Results" MODIFIED="1755367065535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_05" />
+    <SUITE FILE_PATH="coverage/Hillel_course_HW$homework_06_2.coverage" NAME="homework_06.2 Coverage Results" MODIFIED="1755451401743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson_06" />
   </component>
 </project>
